@@ -1,0 +1,7 @@
+1. Zrób GetNameDevice po to aby w mailu by³o co przysz³o.
+2. Zrób ReminderNotification
+3. Deploy na serwer
+
+
+
+Czas do 29 Grudnia 
