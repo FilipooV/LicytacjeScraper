@@ -21,11 +21,12 @@ namespace LicytacjeSraper
             var Hrefs = GetOffertsHrefs.GetHrefs(url);
             var Time = GetEndData.GetTime(url);
             
+
             string FullHrefs = "https://allegrolokalnie.pl";
 
 
             //SEND EMAIL
-            /*SendEmail.Email(url);*/
+            SendEmail.Email(url);
 
             for (int i = 0; i < Offerts.Count; i++)
             {
