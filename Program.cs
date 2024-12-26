@@ -21,15 +21,12 @@ namespace LicytacjeScraper
 
 
             String url = SearchingSystem.System();
-
+ 
             FetchError.Error(url);
 
             var doc = GetDocument.GetDoc(url);
 
             DisplayAllInfos.DisplayInfos(url);
-
-
-            ReminderEmail.Remind(url);
 
 
 

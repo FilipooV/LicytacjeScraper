@@ -1,5 +1,12 @@
-1. Zrób GetNameDevice po to aby w mailu by³o co przysz³o.
-2. Zrób ReminderNotification
+1. Zrób ReminderNotification:
+	-pomysl nad logika metody. jak ona ma dzialac jesli aplikacja bedzie odpalana co godzine? 
+	-kiedy ma wysy³ac maila?
+	-i bedzie wysy³ana wtedy kiedy bedzie blisko? 
+	-co ze zwyk³ym wysy³aniem emaili?
+	-
+2. Zapisywanie do pliku 
+	-zapisywanie pliku do csv np. ipad i co jesli w pierwszej tabeli jest "ipad pro ró¿owy" i po godzinie znów znajdzie ze pierwszy elemt to "ipad pro rózowy" - co wtedy?
+	-
 3. Deploy na serwer
 
 
